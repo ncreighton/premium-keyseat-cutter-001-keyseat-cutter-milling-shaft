@@ -1,0 +1,2 @@
+# premium-keyseat-cutter-001-keyseat-cutter-milling-shaft
+Stop losing track of your keyseat cutter specs and slot dimensions—turn your workshop chaos into a precise, repeatable workflow.  This Notion template centralizes every keyseat cutter, milling job, and shaft slot detail so you never re-measure or re-order wrong parts. It eliminates scattered notes and spreadsheets, giving you a single source of tru
